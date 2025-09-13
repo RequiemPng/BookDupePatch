@@ -1,0 +1,18 @@
+modLoader="javafml"
+loaderVersion="[36,)" # Forge 1.16.5 uses loader version 36+
+license="MIT"
+
+[[mods]]
+modId="bookpatch"
+version="1.0.0"
+displayName="Book Patch Mod"
+description='''
+Fixes the book and quill duplication exploit.
+'''
+authors="Requiem"
+
+[[dependencies.bookpatch]]
+modId="forge"
+mandatory=true
+versionRange="[36,)"
+side="SERVER"

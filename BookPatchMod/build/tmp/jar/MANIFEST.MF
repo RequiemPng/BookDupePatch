@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: bookpatchmod
+Implementation-Version: 1.0-SNAPSHOT
+Specification-Vendor: Requiem
+Specification-Title: bookpatchmod
+Implementation-Timestamp: 2025-09-14T00:26:08+0800
+Specification-Version: 1
+Implementation-Vendor: Requiem
+
